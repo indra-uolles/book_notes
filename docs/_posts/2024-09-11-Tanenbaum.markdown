@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tanenbaum networks - Introduction"
+title:  "Tanenbaum"
 date:   2024-09-10 19:29:05 +0100
 categories: webdev
 ---
